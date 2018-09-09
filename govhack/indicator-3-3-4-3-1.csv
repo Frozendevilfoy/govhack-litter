@@ -1,0 +1,121 @@
+Material,Extent,Measure,Site,2005-2006,2006-2007,2007-2008,2008-2009,2009-2010,2010-2011,2011-2012,2012-2013,2013-2014
+Cigarettes,Australia,Count,All,34,35,32,30,32,29,28,28,23
+Cigarettes,Australia,Count,Beaches,,,,,,,,,20
+Cigarettes,Australia,Count,Car parks,,,,,,,,,31
+Cigarettes,Australia,Count,Highways,,,,,,,,,13
+Cigarettes,Australia,Count,Industrial sites,,,,,,,,,31
+Cigarettes,Australia,Count,Recreational parks,,,,,,,,,9
+Cigarettes,Australia,Count,Residential sites,,,,,,,,,13
+Cigarettes,Australia,Count,Retail strips,,,,,,,,,72
+Cigarettes,Australia,Count,Shopping centres,,,,,,,,,50
+Cigarettes,Australia,Volume,All,,,,,,,,,0.003
+Cigarettes,Queensland,Count,All,45,43,36,27,38,41,34,33,33
+Cigarettes,Queensland,Count,Beaches,,,,,,,,,29
+Cigarettes,Queensland,Count,Car parks,,,,,,,,,41
+Cigarettes,Queensland,Count,Highways,,,,,,,,,26
+Cigarettes,Queensland,Count,Industrial sites,,,,,,,,,38
+Cigarettes,Queensland,Count,Recreational parks,,,,,,,,,14
+Cigarettes,Queensland,Count,Residential sites,,,,,,,,,15
+Cigarettes,Queensland,Count,Retail strips,,,,,,,,,93
+Cigarettes,Queensland,Count,Shopping centres,,,,,,,,,105
+Cigarettes,Queensland,Volume,All,,,,,,,,,0.004
+Glass,Australia,Count,All,2,2,2,2,2,2,1,1,1
+Glass,Australia,Count,Beaches,,,,,,,,,1
+Glass,Australia,Count,Car parks,,,,,,,,,1
+Glass,Australia,Count,Highways,,,,,,,,,1
+Glass,Australia,Count,Industrial sites,,,,,,,,,2
+Glass,Australia,Count,Recreational parks,,,,,,,,,0.4
+Glass,Australia,Count,Residential sites,,,,,,,,,1
+Glass,Australia,Count,Retail strips,,,,,,,,,1
+Glass,Australia,Count,Shopping centres,,,,,,,,,1
+Glass,Australia,Volume,All,,,,,,,,,0.4
+Glass,Queensland,Count,All,1,1,1,1,2,1,1,1,1
+Glass,Queensland,Count,Beaches,,,,,,,,,1
+Glass,Queensland,Count,Car parks,,,,,,,,,0.5
+Glass,Queensland,Count,Highways,,,,,,,,,2
+Glass,Queensland,Count,Industrial sites,,,,,,,,,0.5
+Glass,Queensland,Count,Recreational parks,,,,,,,,,0.4
+Glass,Queensland,Count,Residential sites,,,,,,,,,0.3
+Glass,Queensland,Count,Retail strips,,,,,,,,,1
+Glass,Queensland,Count,Shopping centres,,,,,,,,,0.1
+Glass,Queensland,Volume,All,,,,,,,,,0.32
+Metal,Australia,Count,All,5,6,5,5,5,5,4,4,4
+Metal,Australia,Count,Beaches,,,,,,,,,4
+Metal,Australia,Count,Car parks,,,,,,,,,4
+Metal,Australia,Count,Highways,,,,,,,,,5
+Metal,Australia,Count,Industrial sites,,,,,,,,,7
+Metal,Australia,Count,Recreational parks,,,,,,,,,2
+Metal,Australia,Count,Residential sites,,,,,,,,,4
+Metal,Australia,Count,Retail strips,,,,,,,,,6
+Metal,Australia,Count,Shopping centres,,,,,,,,,4
+Metal,Australia,Volume,All,,,,,,,,,0.85
+Metal,Queensland,Count,All,5,6,6,4,6,5,5,5,6
+Metal,Queensland,Count,Beaches,,,,,,,,,7
+Metal,Queensland,Count,Car parks,,,,,,,,,5
+Metal,Queensland,Count,Highways,,,,,,,,,8
+Metal,Queensland,Count,Industrial sites,,,,,,,,,5
+Metal,Queensland,Count,Recreational parks,,,,,,,,,4
+Metal,Queensland,Count,Residential sites,,,,,,,,,3
+Metal,Queensland,Count,Retail strips,,,,,,,,,7
+Metal,Queensland,Count,Shopping centres,,,,,,,,,7
+Metal,Queensland,Volume,All,,,,,,,,,0.98
+Paper,Australia,Count,All,13,13,13,12,12,11,11,10,10
+Paper,Australia,Count,Beaches,,,,,,,,,8
+Paper,Australia,Count,Car parks,,,,,,,,,9
+Paper,Australia,Count,Highways,,,,,,,,,10
+Paper,Australia,Count,Industrial sites,,,,,,,,,19
+Paper,Australia,Count,Recreational parks,,,,,,,,,4
+Paper,Australia,Count,Residential sites,,,,,,,,,9
+Paper,Australia,Count,Retail strips,,,,,,,,,14
+Paper,Australia,Count,Shopping centres,,,,,,,,,11
+Paper,Australia,Volume,All,,,,,,,,,1.46
+Paper,Queensland,Count,All,16,17,15,13,14,12,13,13,13
+Paper,Queensland,Count,Beaches,,,,,,,,,12
+Paper,Queensland,Count,Car parks,,,,,,,,,6
+Paper,Queensland,Count,Highways,,,,,,,,,16
+Paper,Queensland,Count,Industrial sites,,,,,,,,,19
+Paper,Queensland,Count,Recreational parks,,,,,,,,,5
+Paper,Queensland,Count,Residential sites,,,,,,,,,11
+Paper,Queensland,Count,Retail strips,,,,,,,,,26
+Paper,Queensland,Count,Shopping centres,,,,,,,,,21
+Paper,Queensland,Volume,All,,,,,,,,,1.62
+Plastic,Australia,Count,All,14,15,13,12,12,12,11,11,11
+Plastic,Australia,Count,Beaches,,,,,,,,,14
+Plastic,Australia,Count,Car parks,,,,,,,,,9
+Plastic,Australia,Count,Highways,,,,,,,,,11
+Plastic,Australia,Count,Industrial sites,,,,,,,,,20
+Plastic,Australia,Count,Recreational parks,,,,,,,,,7
+Plastic,Australia,Count,Residential sites,,,,,,,,,10
+Plastic,Australia,Count,Retail strips,,,,,,,,,14
+Plastic,Australia,Count,Shopping centres,,,,,,,,,10
+Plastic,Australia,Volume,All,,,,,,,,,1.89
+Plastic,Queensland,Count,All,18,17,14,12,15,16,15,16,17
+Plastic,Queensland,Count,Beaches,,,,,,,,,20
+Plastic,Queensland,Count,Car parks,,,,,,,,,10
+Plastic,Queensland,Count,Highways,,,,,,,,,21
+Plastic,Queensland,Count,Industrial sites,,,,,,,,,21
+Plastic,Queensland,Count,Recreational parks,,,,,,,,,13
+Plastic,Queensland,Count,Residential sites,,,,,,,,,11
+Plastic,Queensland,Count,Retail strips,,,,,,,,,17
+Plastic,Queensland,Count,Shopping centres,,,,,,,,,19
+Plastic,Queensland,Volume,All,,,,,,,,,2.18
+Other,Australia,Count,All,25,32,28,28,27,22,20,19,23
+Other,Australia,Count,Beaches,,,,,,,,,3
+Other,Australia,Count,Car parks,,,,,,,,,1
+Other,Australia,Count,Highways,,,,,,,,,3
+Other,Australia,Count,Industrial sites,,,,,,,,,3
+Other,Australia,Count,Recreational parks,,,,,,,,,2
+Other,Australia,Count,Residential sites,,,,,,,,,0
+Other,Australia,Count,Retail strips,,,,,,,,,1
+Other,Australia,Count,Shopping centres,,,,,,,,,0
+Other,Queensland,Count,All,7,12,18,21,15,10,8,14,8
+Other,Queensland,Count,Beaches,,,,,,,,,3
+Other,Queensland,Count,Car parks,,,,,,,,,0
+Other,Queensland,Count,Highways,,,,,,,,,2
+Other,Queensland,Count,Industrial sites,,,,,,,,,1
+Other,Queensland,Count,Recreational parks,,,,,,,,,2
+Other,Queensland,Count,Residential sites,,,,,,,,,1
+Other,Queensland,Count,Retail strips,,,,,,,,,1
+Other,Queensland,Count,Shopping centres,,,,,,,,,1
+Large items,Australia,Volume,All,,,,,,,,,1.22
+Large items,Queensland,Volume,All,,,,,,,,,0.32

@@ -1,0 +1,33 @@
+#map{
+    width:1300px;
+    height:1000px;
+}
+#chipbag{
+    position: absolute;
+    left: 1123px;
+    top: 0px;
+    visibility: hidden;
+    display: flex;
+}
+
+#coke{
+    position: absolute;
+    left: 986px;
+    top: 0px;
+    visibility: hidden;
+    display: flex;
+}
+#burger{
+    position: absolute;
+    left: 1185px;
+    top: 0px;
+    visibility: hidden;
+    display: flex;
+}
+#pizza{
+    position: absolute;
+    left: 1150px;
+    top: 0px;
+    visibility: hidden;
+    display: flex;
+}
